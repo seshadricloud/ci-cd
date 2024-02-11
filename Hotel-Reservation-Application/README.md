@@ -77,6 +77,4 @@ A `Hotel Reservation System` named as `VBook`, coded in `Java and PHP`. Vendor a
   <img src = "https://github.com/SameetAsadullah/Hotel-Reservation-Application/blob/main/extras/reservations-ss.png" alt = "" width="200px"/>
 </div>
 
-### Contributors
-- [Sameet Asadullah](https://github.com/SameetAsadullah) 
-- [Tayyab Ali](https://github.com/DarkDragz)
+
